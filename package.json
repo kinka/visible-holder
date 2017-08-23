@@ -1,6 +1,6 @@
 {
   "name": "visible-holder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "placeholder whether or not some place of the page is visible, so call it visible-holder",
   "main": "index.jsx",
   "scripts": {
@@ -8,8 +8,8 @@
   },
   "author": "kinka",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/Kinka/visible-holder.git"
+    "type": "git",
+    "url": "https://github.com/Kinka/visible-holder.git"
   },
   "license": "MIT"
 }
