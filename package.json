@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "kinka",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/Kinka/visible-holder.git"
+  },
   "license": "MIT"
 }
