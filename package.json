@@ -1,0 +1,11 @@
+{
+  "name": "visible-holder",
+  "version": "1.0.1",
+  "description": "placeholder whether or not some place of the page is visible, so call it visible-holder",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kinka",
+  "license": "MIT"
+}
